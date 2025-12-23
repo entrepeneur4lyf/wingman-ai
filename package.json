@@ -218,7 +218,7 @@
 		"extended-eventsource": "2.1.0",
 		"ignore": "5.2.0",
 		"json5": "2.2.3",
-		"langchain": "0.3.26",
+		"langchain": "0.3.37",
 		"minimatch": "10.0.1",
 		"node-cache": "^5.1.2",
 		"node-fetch": "3.3.2",
