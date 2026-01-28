@@ -224,7 +224,7 @@
 		"node-fetch": "3.3.2",
 		"puppeteer-chromium-resolver": "^23.0.0",
 		"sound-play": "1.1.0",
-		"tar": "7.4.3",
+		"tar": "7.5.7",
 		"tinyglobby": "0.2.10",
 		"tree-sitter": "0.22.4",
 		"turndown": "7.2.0",
