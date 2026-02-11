@@ -199,7 +199,7 @@
 		"@huggingface/inference": "2.6.4",
 		"@lancedb/lancedb": "0.18.2",
 		"@langchain/anthropic": "0.3.20",
-		"@langchain/community": "0.3.43",
+		"@langchain/community": "1.1.14",
 		"@langchain/core": "0.3.56",
 		"@langchain/google-genai": "0.2.9",
 		"@langchain/langgraph": "0.2.72",
